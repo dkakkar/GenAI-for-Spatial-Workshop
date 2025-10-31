@@ -1,0 +1,1 @@
+# GenAI-for-Spatial-Workshop
